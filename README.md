@@ -17,17 +17,25 @@
 
 В итоге получились такие картинки.
 
+![Графики](/images/2020-03-31-pic001.png)
+![Итоги пандемии для Владимрской области](/images/2020-03-31-pic002.png)
+![Итоги пандемии для Владимрской области в распределении по возрастам](/images/2020-03-31-pic003.png)
+![Параметры модели №1 - Вирус и готовность области](/images/2020-03-31-pic004.png)
+![Параметры модели №2 - Самоизоляция](/images/2020-03-31-pic005.png)
+![Параметры модели №3 - Влияние вируса по возратам](/images/2020-03-31-pic006.png)
+
 Все описанное не является прогнозом, предсказанием и тем более руководством к действию. Это лишь мое видение развития ситуации исходя из моего представления текущей состояния и хоть сколько-нибудь формализованного, пусть и сильно упрощенного инструмента прогнозирования эпидемий и действия мер по их подавлению - модели SEIR. Возможно параметры модели неверные и все окажется гораздо мягче, а пока - ОСТАВАЙТЕСЬ ДОМА!
 
-	1. Моделирование эпидемий. SIR модель. Simulating an epidemic
-	2. COVID-19 dynamics with SIR model https://www.lewuathe.com/covid-19-dynamics-with-sir-model.html
-	3. Модель Медузы https://meduza.io/feature/2020/03/30/v-moskve-vveli-zhestkie-karantinnye-mery-pohozhe-eto-pravilno-matematicheskaya-model-pokazyvaet-chto-inache-mogli-by-pogibnut-bolshe-100-tysyach-chelovek
-	4. SEIR простым языком от Washington Post https://www.washingtonpost.com/graphics/2020/health/corona-simulation-russian/?fbclid=IwAR31zVclS8haqRy63Kog-xBrD0923-kbi2bKIx1NNVPaM4cgJ8Vk3SPOLdA
-	5. Эпидемия в больших и малых городах https://meduza.io/feature/2020/03/30/epidemiyu-koronavirusa-zhdut-v-bolshih-gorodah-no-osnovnoy-udar-mozhet-priytis-na-stareyuschie-regiony?utm_source=telegram&utm_medium=live&utm_campaign=live
-	6. Модель на основе статистики перемещений людей https://habr.com/ru/company/tuturu/blog/494700/
-	7. COVID19 дашборд https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
-	8. Карта распространения https://yandex.ru/web-maps/covid19?ll=41.775580%2C54.894027&z=3
-	9. Карта самоизоляции https://yandex.ru/web-maps/covid19/isolation?ll=39.311184%2C55.398151&z=7.9 
+# Ссылки
+1. Моделирование эпидемий. SIR модель. Simulating an epidemic
+1. COVID-19 dynamics with SIR model https://www.lewuathe.com/covid-19-dynamics-with-sir-model.html
+1. Модель Медузы https://meduza.io/feature/2020/03/30/v-moskve-vveli-zhestkie-karantinnye-mery-pohozhe-eto-pravilno-matematicheskaya-model-pokazyvaet-chto-inache-mogli-by-pogibnut-bolshe-100-tysyach-chelovek
+1. SEIR простым языком от Washington Post https://www.washingtonpost.com/graphics/2020/health/corona-simulation-russian/?fbclid=IwAR31zVclS8haqRy63Kog-xBrD0923-kbi2bKIx1NNVPaM4cgJ8Vk3SPOLdA
+1. Эпидемия в больших и малых городах https://meduza.io/feature/2020/03/30/epidemiyu-koronavirusa-zhdut-v-bolshih-gorodah-no-osnovnoy-udar-mozhet-priytis-na-stareyuschie-regiony?utm_source=telegram&utm_medium=live&utm_campaign=live
+1. Модель на основе статистики перемещений людей https://habr.com/ru/company/tuturu/blog/494700/
+1. COVID19 дашборд https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+1. Карта распространения https://yandex.ru/web-maps/covid19?ll=41.775580%2C54.894027&z=3
+1. Карта самоизоляции https://yandex.ru/web-maps/covid19/isolation?ll=39.311184%2C55.398151&z=7.9 
 	
 
 #StayHome #StayAtHome #СидимДома #Самоизоляция #SocialDistansing
