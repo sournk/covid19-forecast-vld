@@ -1,4 +1,9 @@
 # covid19-forecast-vld
+Попытка спрогнозировать развитие пандемии COVID19 для Владимирской области.
+
+# Обновление прогноза от 2020-04-27
+
+# Прогноз от 2020-03-31
 Недавно стали популярны различные варианты математических моделей развития эпидемии. Например, опубликованы [рекомендации срочного ввода жесткого карантина в штате Иллинойс от Cornell University](https://arxiv.org/abs/2003.09564) на основе адаптированной под COVID19 модели SEIR. Медуза опубликовала [исследование доцента МГУ](https://meduza.io/feature/2020/03/30/v-moskve-vveli-zhestkie-karantinnye-mery-pohozhe-eto-pravilno-matematicheskaya-model-pokazyvaet-chto-inache-mogli-by-pogibnut-bolshe-100-tysyach-chelovek) с простыми и понятными описаниями вариантов развития и последствий при разных сценариях карантина и "шашлыков" для Москвы. Washington Post простым языком [объясняет](https://www.washingtonpost.com/graphics/2020/health/corona-simulation-russian/?fbclid=IwAR31zVclS8haqRy63Kog-xBrD0923-kbi2bKIx1NNVPaM4cgJ8Vk3SPOLdA) как распространяется вирус. Факультет Biozentrum Университета Базеля запилил свой [COVID19-scenario explorer](https://neherlab.org/covid19) все на той же SEIR модели с учетом известных сейчас свойств SARS-CoV-2. 
 
 Я сейчас живу во Владимире. Для него найти в интернете хоть какие-то модели не получилось. Поэтому я подставил такие параметры Владимирской области в базельский [COVID19-scenario explorer](https://neherlab.org/covid19):
